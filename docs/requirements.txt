@@ -32,3 +32,4 @@ sphinx-llm~=0.4
 # Vale dependencies
 rst2html
 vale~=3.13
+tornado>=6.5.7 # not directly required, pinned by Snyk to avoid a vulnerability
