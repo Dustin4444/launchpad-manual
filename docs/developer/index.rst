@@ -53,7 +53,7 @@ required to implement and ship changes in Launchpad.
   :ref:`Pre merge reviews <pre-merge-reviews>` •
   :ref:`Journey of a change to production <journey-change-production>`
 * **Database changes**:
-  :ref:`Database schema changes process <database-schema-changes-process>` •
+  :ref:`Create a database patch <create-a-db-patch>` •
   :ref:`Apply database schema changes <apply-database-schema-changes>`
 * **Common tasks**:
   :ref:`Fix bugs <fixing-bugs>` •
